@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BlockChain</string>
+    <string name="login_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="auth_hint">Вход</string>
+    <string name="error_hint">Необходимо заполнить поле</string>
+    <string name="name_hint_title">Имя:</string>
+    <string name="tools_title_mock">Имя пользователя</string>
+    <string name="surname_hint_title">Фамилия:</string>
+    <string name="exit">Выход</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сброс</string>
+    <string name="identifier_hint">Идентификатор:</string>
+    <string name="sum_hint">Общая сумма</string>
+    <string name="time_hint">Время выполнения транзакции</string>
+    <string name="position_title">Позиция:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
